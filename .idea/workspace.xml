@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -31,6 +34,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunManager">
     <configuration name="DingCraft-Ban build" type="MavenRunConfiguration" factoryName="Maven">
@@ -72,5 +81,19 @@
       <updated>1589549579581</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="679" y="390" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589613838209">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="679" y="390" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.0.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1589613838209" />
+    <state x="709" y="294" key="FileChooserDialogImpl" timestamp="1589613823488">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="709" y="294" key="FileChooserDialogImpl/1920.0.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1589613823488" />
+    <state x="430" y="181" key="SettingsEditor" timestamp="1589613839663">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="430" y="181" key="SettingsEditor/1920.0.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1589613839663" />
   </component>
 </project>

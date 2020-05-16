@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DingCraft-Ban">
+    <output-path>E:/MC/服务端/1.15 插件开发/plugins/</output-path>
+    <root id="archive" name="DingCraft-Ban.jar" />
+  </artifact>
+</component>
