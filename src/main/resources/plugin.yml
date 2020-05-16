@@ -1,0 +1,8 @@
+name: DingCraft-Ban
+version: ${project.version}
+main: dingcraft.ban
+api-version: 1.13
+prefix: 【钉钉村】【DingCraft-Ban】
+authors: [haohaovision]
+description: Ban players easily
+website: bbs.dingv.ga
