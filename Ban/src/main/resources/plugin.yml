@@ -1,0 +1,8 @@
+name: DingCraft Ban
+version: ${project.version}
+main: dingcraft.dingcraftban.DingCraftBan
+api-version: 1.13
+prefix: 【钉钉村】[DC-Ban]
+authors: [Haohaovision]
+description: Banning
+website: dingv.ga
